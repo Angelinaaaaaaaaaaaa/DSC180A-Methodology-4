@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Angelina Zhang
-ruz039@ucsd.edu
+Angelina Zhang and Cici Xu
+
